@@ -9,6 +9,5 @@ Credits:
 Windows Free Activation Tool was created by SpikeGR
 
 YouTube: youtube.com/spikegreece
-
 Instagram: instagram.com/spikegr_official
 ----
