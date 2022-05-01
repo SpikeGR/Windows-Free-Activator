@@ -1,0 +1,12 @@
+Windows Free Activation Tool
+Version: 2.1
+Released on: 1/5/2022
+
+Thank you for downloading Version 2.1 of Windows Free Activation Tool.
+Below you can see what changed in this update:
+
+This is a small update.
+-------------------
+1) Added a README file
+2) We made some adjustments
+-------------------
