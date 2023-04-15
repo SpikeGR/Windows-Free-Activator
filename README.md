@@ -1,4 +1,4 @@
-# Windows Free Activator V3.1.1
+# Windows Free Activator V3.2
 
 ## Do you want to activate Windows 10 or 11 without paying a cent?
 
