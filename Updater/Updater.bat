@@ -1,11 +1,11 @@
 @echo off
-title Windows Free Activator V4.0
+title Windows Free Activator V4.1
 
 :checkforupdates
 echo //------------------
 echo  Windows Free Activator
-echo  Version: 4.0
-echo  Released on: 17/4/2023
+echo  Version: 4.1
+echo  Released on: July 2, 2023
 echo  Created by SpikeGR
 echo ------------------
 echo  Follow us on Social Media: https://linktr.ee/spikegr
@@ -15,8 +15,8 @@ echo.
 timeout 2 > nul
 echo Checking for Updates...
 timeout 1 > nul
-set releasedate=17/4/2023
-set local=4.0
+set releasedate=July 2, 2023
+set local=4.1
 set localtwo=%local%
 set link=https://pastebin.com/raw/YQVTi78t
 
